@@ -2,7 +2,7 @@
 
 # [relation-chart](https://github.com/xiedajian/relation-chart)
 
-人物关系图生成器
+人物关系图
 
 ---
 
